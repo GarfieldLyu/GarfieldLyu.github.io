@@ -9,8 +9,7 @@ author_profile: true
   <div class="wordwrap">You can also find my full list of articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
-**Lijun Lyu**, Nirmal Roy, Harrie Oosterhuis, Avishek Anand. Is Interpretable Machine Learning Effective at
-Feature Selection for Neural Learning-to-Rank? In ECIR 2024: 46th European Conference on Information Retrieval.
+**Lijun Lyu**, Nirmal Roy, Harrie Oosterhuis, Avishek Anand. Is Interpretable Machine Learning Effective at Feature Selection for Neural Learning-to-Rank? In ECIR 2024: 46th European Conference on Information Retrieval.
 
 **Lijun Lyu**, Avishek Anand. Listwise explanations for ranking models using multiple explainers. In ECIR 2023: 45th European Conference on Information Retrieval.
 

@@ -8,4 +8,4 @@ redirect_from:
 ---
 
 {% include base_path %}
-The most recent version of my CV is available [here](/files/cv.pdf).
+The most recent version of my CV is available [here](/files/cv_latest.pdf).

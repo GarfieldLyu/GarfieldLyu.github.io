@@ -16,6 +16,9 @@ Please find more details in my [CV](/cv/)
 
 ## News
 ---
+**02 May, 2024: Our paper [Local Feature Selection without Label or Feature Leakage for Interpretable Machine Learning Predictions]() is accepted at [ICML 2024](https://icml.cc), see you in Vienna!
+
+---
 **28 March, 2024**: I am presenting our paper [Is Interpretable Machine Learning Effective at Feature Selection for Neural Learning-to-Rank?](https://link.springer.com/chapter/10.1007/978-3-031-56066-8_29) at [ECIR 2024](https://www.ecir2024.org) on [IR for good](https://www.ecir2024.org/2023/07/24/call-for-ir-for-good-papers/), in Glasgow.
 
 ---
